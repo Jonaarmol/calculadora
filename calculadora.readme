@@ -1,0 +1,7 @@
+Ejercicio hecho por partes sacado del curso pedorro de Dalto de JS cero-a-jr.
+(https://www.youtube.com/watch?v=z95mZVUcJ-E&t=24132s&ab_channel=SoyDalto)
+Se hizo un prompt para seleccionar operación y posterior pedido de los números para ejecutarla (if-else if-else).
+A corregir: debería haber una clase desde la cual se genere el objeto calculadora (?) (sugerencia Dalto)
+A corregir: debería pedirse un solo prompt para los dos números a operar (traedme bisturí!).
+Guille lo tiene hecho, pero sigue pidiendo dos números en los casos que debería pedir uno solo
+(sqrt y cbrt)... pero a Guille ya no le importa (?)
